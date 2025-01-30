@@ -1,7 +1,3 @@
 # test-github
-Learning
-Hello
-Hi
-Whooo
-Hey
+What's up?
 
